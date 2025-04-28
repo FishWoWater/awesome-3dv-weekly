@@ -6,6 +6,13 @@ Especially focused on **Text-to-3D** and **Image-to-3D**
 
 NOTE: **ONLY** projects that already **HAVE CODE** are listed here (i.e. excluding **COMING SOON**)
 
+### 2025.04.21 - 2025.04.25
+
+| Repo/Project                                       | Domain                               | Stars                                                                        | Author            | Notes                        |
+| -------------------------------------------------- | ------------------------------------ | ---------------------------------------------------------------------------- | ----------------- | ---------------------------- |
+| [WorldGen](https://github.com/ZiYang-xie/WorldGen) | Text/Image based 3D World Generation | ![Github stars](https://img.shields.io/github/stars/ZiYang-Xie/WorldGen.svg) | Ziyang Xie @ UIUC | Fast/360°/flexible rendering |
+
+
 ### 2025.04.14 - 2025.04.20
 
 | Repo/Project                                       | Domain                                | Stars                                                                       | Author            | Notes                                                                                                                                                                               |
