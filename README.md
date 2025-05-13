@@ -6,11 +6,29 @@ Especially focused on **Text-to-3D** and **Image-to-3D**
 
 NOTE: **ONLY** projects that already **HAVE CODE** are listed here (i.e. excluding **COMING SOON**)
 
+### 2025.05.12 - 2025.05.16
+
+
+| Repo/Project                                         | Domain               | Stars                                                                         | Author        | Notes                                                                                   |
+| ---------------------------------------------------- | -------------------- | ----------------------------------------------------------------------------- | ------------- | --------------------------------------------------------------------------------------- |
+| [Step1X-3D](https://github.com/stepfun-ai/Step1X-3D) | 3DAIGC / Image-to-3D | ![Github stars](https://img.shields.io/github/stars/stepfun-ai/Step1X-3D.svg) | StepFun(阶跃星辰) | 1. Support multiple conditions<br>2. Beats TRELLIS and Hunyuan3D, on par with Tripov2.5 |
+
+### 2025.05.05 - 2025.05.10
+
+| Repo/Project                                                                | Domain                                                 | Stars                                                                                        | Author       | Notes                                                                                                                             |
+| --------------------------------------------------------------------------- | ------------------------------------------------------ | -------------------------------------------------------------------------------------------- | ------------ | --------------------------------------------------------------------------------------------------------------------------------- |
+| [PrimitiveAnything](https://github.com/PrimitiveAnything/PrimitiveAnything) | Mesh -> Primitive Assembly Generation                  | ![Github stars](https://img.shields.io/github/stars/PrimitiveAnything/PrimitiveAnything.svg) | Tencent AIPD | 1. SIGGRAPH 2025<br>2. Applications in UGC (Games)<br>3. Encoder + Transformer + Cascaded Decoder <br>4. Mesh/PointCloud as input |
+| [LegoGPT](https://github.com/AvaLovelace1/LegoGPT)                          | Pphysically stable LEGO brick models from text prompts | ![Github stars](https://img.shields.io/github/stars/AvaLovelace1/LegoGPT.svg)                | CMU          | 1. Fintuned from Llama-3.2-1B-Instruct<br>2. Trials and stability checks                                                          |
+| [Beta-Splatting](https://github.com/RongLiu-Leo/beta-splatting)             | 3D GS Representation                                   | ![Github stars](https://img.shields.io/github/stars/RongLiu-Leo/beta-splatting.svg)          | USC          | 1. SIGGRAPH 2025<br>2. A deformable and compact approach that enhances both geometry and color representation                     |
+
+
+
 ### 2025.04.21 - 2025.04.25
 
-| Repo/Project                                       | Domain                               | Stars                                                                        | Author            | Notes                        |
-| -------------------------------------------------- | ------------------------------------ | ---------------------------------------------------------------------------- | ----------------- | ---------------------------- |
-| [WorldGen](https://github.com/ZiYang-xie/WorldGen) | Text/Image based 3D World Generation | ![Github stars](https://img.shields.io/github/stars/ZiYang-Xie/WorldGen.svg) | Ziyang Xie @ UIUC | Fast/360°/flexible rendering |
+| Repo/Project                                               | Domain                                    | Stars                                                                                | Author            | Notes                                                                                                                                                 |
+| ---------------------------------------------------------- | ----------------------------------------- | ------------------------------------------------------------------------------------ | ----------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------- |
+| [WorldGen](https://github.com/ZiYang-xie/WorldGen)         | Text/Image based 3D World Generation      | ![Github stars](https://img.shields.io/github/stars/ZiYang-Xie/WorldGen.svg)         | Ziyang Xie @ UIUC | Fast/360°/flexible rendering                                                                                                                          |
+| [TetWeave](https://github.com/AlexandreBinninger/TetWeave) | Differentiable ISO-Surface Representation | ![Github stars](https://img.shields.io/github/stars/AlexandreBinninger/TetWeave.svg) | ETH               | 1. SIGGRAPH 2025 <br>2. Alternative of DMTet and Flexicubes<br>3. Intersection-free & Manifold<br>4. Mesh Compression & Multiview-Reconstruction etc. |
 
 
 ### 2025.04.14 - 2025.04.20
