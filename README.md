@@ -8,10 +8,11 @@ NOTE: **ONLY** projects that already **HAVE CODE** are listed here (i.e. excludi
 
 ### 2025.05.12 - 2025.05.16
 
-
-| Repo/Project                                         | Domain               | Stars                                                                         | Author        | Notes                                                                                   |
-| ---------------------------------------------------- | -------------------- | ----------------------------------------------------------------------------- | ------------- | --------------------------------------------------------------------------------------- |
-| [Step1X-3D](https://github.com/stepfun-ai/Step1X-3D) | 3DAIGC / Image-to-3D | ![Github stars](https://img.shields.io/github/stars/stepfun-ai/Step1X-3D.svg) | StepFun(阶跃星辰) | 1. Support multiple conditions<br>2. Beats TRELLIS and Hunyuan3D, on par with Tripov2.5 |
+| Repo/Project                                                                   | Domain                                          | Stars                                                                                          | Author        | Notes                                                                                                                           |
+| ------------------------------------------------------------------------------ | ----------------------------------------------- | ---------------------------------------------------------------------------------------------- | ------------- | ------------------------------------------------------------------------------------------------------------------------------- |
+| [Step1X-3D](https://github.com/stepfun-ai/Step1X-3D)                           | 3DAIGC / Image-to-3D                            | ![Github stars](https://img.shields.io/github/stars/stepfun-ai/Step1X-3D.svg)                  | StepFun(阶跃星辰) | 1. Support multiple conditions<br>2. Beats TRELLIS and Hunyuan3D, on par with Tripov2.5                                         |
+| [AnyMate](https://github.com/yfde/Anymate)                                     | Automatic Rigging                               | ![Github stars](https://img.shields.io/github/stars/yfde/Anymate.svg)                          | Stanford      | 1. 230K 3D Models with Rig & Skin Weights <br>2. Model trained on the dataset                                                   |
+| [Articulate-Anymesh](https://github.com/UMass-Embodied-AGI/Articulate-Anymesh) | Open-Vocabulary 3D Articulated Objects Modeling | ![Github stars](https://img.shields.io/github/stars/UMass-Embodied-AGI/Articulate-Anymesh.svg) | UMASS         | An automated framework that is able to convert any rigid 3D mesh into its articulated counterpart in an open-vocabulary manner. |
 
 ### 2025.05.05 - 2025.05.10
 
@@ -20,6 +21,12 @@ NOTE: **ONLY** projects that already **HAVE CODE** are listed here (i.e. excludi
 | [PrimitiveAnything](https://github.com/PrimitiveAnything/PrimitiveAnything) | Mesh -> Primitive Assembly Generation                  | ![Github stars](https://img.shields.io/github/stars/PrimitiveAnything/PrimitiveAnything.svg) | Tencent AIPD | 1. SIGGRAPH 2025<br>2. Applications in UGC (Games)<br>3. Encoder + Transformer + Cascaded Decoder <br>4. Mesh/PointCloud as input |
 | [LegoGPT](https://github.com/AvaLovelace1/LegoGPT)                          | Pphysically stable LEGO brick models from text prompts | ![Github stars](https://img.shields.io/github/stars/AvaLovelace1/LegoGPT.svg)                | CMU          | 1. Fintuned from Llama-3.2-1B-Instruct<br>2. Trials and stability checks                                                          |
 | [Beta-Splatting](https://github.com/RongLiu-Leo/beta-splatting)             | 3D GS Representation                                   | ![Github stars](https://img.shields.io/github/stars/RongLiu-Leo/beta-splatting.svg)          | USC          | 1. SIGGRAPH 2025<br>2. A deformable and compact approach that enhances both geometry and color representation                     |
+
+### 2025.04.28 - 2025.05.02
+
+| Repo/Project                                         | Domain             | Stars                                                                         | Author     | Notes     |
+| ---------------------------------------------------- | ------------------ | ----------------------------------------------------------------------------- | ---------- | --------- |
+| [Difflocks](https://github.com/Meshcapade/difflocks) | 3D Hair Generation | ![Github stars](https://img.shields.io/github/stars/Meshcapade/difflocks.svg) | Meshcapade | CVPR 2025 |
 
 
 
