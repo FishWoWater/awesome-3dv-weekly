@@ -1,30 +1,39 @@
 
 # 🚀 Awesome 3DV weekly
 
-This project collects some good and useful 3D vision projects in every week 
-Especially focused on **Text-to-3D** and **Image-to-3D**
+This project collects some good and useful 3D vision projects in every week. Especially focused on **Text-to-3D** and **Image-to-3D**
+
+### 2025.06.16 - 2025.06.22
 
 
-### 2025.06.09 - 2025.06.13
+| Repo/Project                                                         | Domain                                             | Stars                                                                                  | Author  | Notes                                                                                                                                                                                                                                                 |
+| -------------------------------------------------------------------- | -------------------------------------------------- | -------------------------------------------------------------------------------------- | ------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| [Diffusion-Renderer](https://github.com/nv-tlabs/diffusion-renderer) | Neural Inverse Rendering<br>Video Diffusion Models | ![Github stars](https://img.shields.io/github/stars/nv-tlabs/diffusion-renderer.svg)   | NVIDIA  | CVPR 2025 Oral<br>![](./imgs/20250620115917.png)                                                                                                                                                                                                      |
+| [Hunyuan3D-2.1](https://github.com/Tencent-Hunyuan/Hunyuan3D-2.1)    | Image-to-3D                                        | ![Github stars](https://img.shields.io/github/stars/Tencent-Hunyuan/Hunyuan3D-2.1.svg) | Tencent | SOTA 3DAIGC Model; PBR Material                                                                                                                                                                                                                       |
+| [Sparc3D](https://github.com/lizhihao6/Sparc3D)                      | Sparse 3D Representaion                            | ![Github stars](https://img.shields.io/github/stars/lizhihao6/Sparc3D)                 | NTU     | 1. Sparcubes & SparconvVAE<br>2. Sparubes converts Raw meshes to Sparse voxels, following the stream of XCube/TRELLIS but with 3D supervision.<br>3. High Resolution & Intricate Detail Encoding/Decoding, facilitating downstream 3D Generation task |
+
+
+
+### 2025.06.09 - 2025.06.15
 
 | Repo/Project                                                           | Domain                                          | Stars                                                                                  | Author              | Notes                                                                                                                              |
 | ---------------------------------------------------------------------- | ----------------------------------------------- | -------------------------------------------------------------------------------------- | ------------------- | ---------------------------------------------------------------------------------------------------------------------------------- |
 | [AnimateAnyMesh](https://github.com/JarrentWu1031/AnimateAnyMesh)      | General Mesh Animation                          | ![Github stars](https://img.shields.io/github/stars/JarrentWu1031/AnimateAnyMesh.svg)  | HUST & DAMO Acadamy | The first feed-forward universal mesh animation framework that enables efficient motion generation for arbitrary 3D meshes<br>     |
 | [PartPacker](https://github.com/NVlabs/PartPacker)                     | Image-to-3D<br>Structured Mesh Generation       | ![Github stars](https://img.shields.io/github/stars/NVlabs/PartPacker.svg)             | NVIDIA              | Structured Mesh Generation from a Single RGB Image                                                                                 |
 | [OrientationMatters](https://github.com/YichongLu/Orientation_Matters) | Making 3D Generative Models Orientation-Aligned | ![Github stars](https://img.shields.io/github/stars/YichongLu/Orientation_Matters.svg) | ZJU & Ant           | 1. Introducing Objaverse-OA, a dataset of 14,832 orientation-aligned 3D models<br>2. Producing models with consistent orientations |
-| [PartCrafter](https://github.com/wgsxm/PartCrafter)                    | Image-to-3D<br>Structured Mesh Generation       | ![Github stars](https://img.shields.io/github/stars/wgsxm/PartCrafter.svg)             | PKU & ByteDance     | ![./imgs/20250612160110.png](./imgs/20250612160110.png)                                                   |
-| [MeshArt](https://github.com/DaoyiG/MeshArt)                           | Articulated Mesh Generation                     | ![Github stars](https://img.shields.io/github/stars/DaoyiG/MeshArt.svg)                | TUM & Meta          | ![./imgs/20250612160348.png](./imgs/20250612160348.png)                                                                                               |
+| [PartCrafter](https://github.com/wgsxm/PartCrafter)                    | Image-to-3D<br>Structured Mesh Generation       | ![Github stars](https://img.shields.io/github/stars/wgsxm/PartCrafter.svg)             | PKU & ByteDance     | ![](./imgs/20250612160110.png)                                                                                                     |
+| [MeshArt](https://github.com/DaoyiG/MeshArt)                           | Articulated Mesh Generation                     | ![Github stars](https://img.shields.io/github/stars/DaoyiG/MeshArt.svg)                | TUM & Meta          | ![](./imgs/20250612160348.png)                                                                                                     |
 
-### 2025.06.02 - 2025.06.06
+### 2025.06.02 - 2025.06.08
 
-| Repo/Project                                               | Domain                                  | Stars                                                                           | Author                  | Notes                                |
-| ---------------------------------------------------------- | --------------------------------------- | ------------------------------------------------------------------------------- | ----------------------- | ------------------------------------ |
-| [ShapeLLM-Omni](https://github.com/JAMESYJL/ShapeLLM-Omni) | Unified 3D Generation and Understanding | ![Github stars](https://img.shields.io/github/stars/JAMESYJL/ShapeLLM-Omni.svg) | Tsinghua & PKU          | ![./imgs/Pasted image 20250612160551.png](./imgs/20250612160551.png) |
-| [UniTex](https://github.com/lightillusions/UniTEX)         | Mesh Texturing                          | ![Github stars](https://img.shields.io/github/stars/lightillusions/UniTEX.svg)  | LightIllusion           | ![./imgs/Pasted image 20250612160729.png](./imgs/20250612160729.png) |
-| [NuiScene](https://github.com/3dlg-hcvc/NuiScene)          | Unbounded Outdoor Scene Generation      | ![Github stars](https://img.shields.io/github/stars/3dlg-hcvc/NuiScene.svg)     | Simon Fraser University | ![./imgs/Pasted image 20250612161352.png](./imgs/20250612161352.png) |
+| Repo/Project                                               | Domain                                  | Stars                                                                           | Author                  | Notes                          |
+| ---------------------------------------------------------- | --------------------------------------- | ------------------------------------------------------------------------------- | ----------------------- | ------------------------------ |
+| [ShapeLLM-Omni](https://github.com/JAMESYJL/ShapeLLM-Omni) | Unified 3D Generation and Understanding | ![Github stars](https://img.shields.io/github/stars/JAMESYJL/ShapeLLM-Omni.svg) | Tsinghua & PKU          | ![](./imgs/20250612160551.png) |
+| [UniTex](https://github.com/lightillusions/UniTEX)         | Mesh Texturing                          | ![Github stars](https://img.shields.io/github/stars/lightillusions/UniTEX.svg)  | LightIllusion           | ![](./imgs/20250612160729.png) |
+| [NuiScene](https://github.com/3dlg-hcvc/NuiScene)          | Unbounded Outdoor Scene Generation      | ![Github stars](https://img.shields.io/github/stars/3dlg-hcvc/NuiScene.svg)     | Simon Fraser University | ![](./imgs/20250612161352.png) |
 
 
-### 2025.05.12 - 2025.05.16
+### 2025.05.12 - 2025.05.18
 
 | Repo/Project                                                                   | Domain                                          | Stars                                                                                          | Author        | Notes                                                                                                                           |
 | ------------------------------------------------------------------------------ | ----------------------------------------------- | ---------------------------------------------------------------------------------------------- | ------------- | ------------------------------------------------------------------------------------------------------------------------------- |
@@ -32,7 +41,7 @@ Especially focused on **Text-to-3D** and **Image-to-3D**
 | [AnyMate](https://github.com/yfde/Anymate)                                     | Automatic Rigging                               | ![Github stars](https://img.shields.io/github/stars/yfde/Anymate.svg)                          | Stanford      | 1. 230K 3D Models with Rig & Skin Weights <br>2. Model trained on the dataset                                                   |
 | [Articulate-Anymesh](https://github.com/UMass-Embodied-AGI/Articulate-Anymesh) | Open-Vocabulary 3D Articulated Objects Modeling | ![Github stars](https://img.shields.io/github/stars/UMass-Embodied-AGI/Articulate-Anymesh.svg) | UMASS         | An automated framework that is able to convert any rigid 3D mesh into its articulated counterpart in an open-vocabulary manner. |
 
-### 2025.05.05 - 2025.05.10
+### 2025.05.05 - 2025.05.11
 
 | Repo/Project                                                                | Domain                                                 | Stars                                                                                        | Author       | Notes                                                                                                                             |
 | --------------------------------------------------------------------------- | ------------------------------------------------------ | -------------------------------------------------------------------------------------------- | ------------ | --------------------------------------------------------------------------------------------------------------------------------- |
@@ -40,7 +49,7 @@ Especially focused on **Text-to-3D** and **Image-to-3D**
 | [LegoGPT](https://github.com/AvaLovelace1/LegoGPT)                          | Pphysically stable LEGO brick models from text prompts | ![Github stars](https://img.shields.io/github/stars/AvaLovelace1/LegoGPT.svg)                | CMU          | 1. Fintuned from Llama-3.2-1B-Instruct<br>2. Trials and stability checks                                                          |
 | [Beta-Splatting](https://github.com/RongLiu-Leo/beta-splatting)             | 3D GS Representation                                   | ![Github stars](https://img.shields.io/github/stars/RongLiu-Leo/beta-splatting.svg)          | USC          | 1. SIGGRAPH 2025<br>2. A deformable and compact approach that enhances both geometry and color representation                     |
 
-### 2025.04.28 - 2025.05.02
+### 2025.04.28 - 2025.05.04
 
 | Repo/Project                                         | Domain             | Stars                                                                         | Author     | Notes     |
 | ---------------------------------------------------- | ------------------ | ----------------------------------------------------------------------------- | ---------- | --------- |
@@ -48,7 +57,7 @@ Especially focused on **Text-to-3D** and **Image-to-3D**
 
 
 
-### 2025.04.21 - 2025.04.25
+### 2025.04.21 - 2025.04.27
 
 | Repo/Project                                               | Domain                                    | Stars                                                                                | Author            | Notes                                                                                                                                                 |
 | ---------------------------------------------------------- | ----------------------------------------- | ------------------------------------------------------------------------------------ | ----------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------- |
